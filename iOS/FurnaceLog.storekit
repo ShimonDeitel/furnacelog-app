@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "FurnaceLog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub_1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Log furnace and boiler service visits, part replacements, and technician notes.",
+              "displayName": "FurnaceLog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.furnacelog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "FurnaceLog Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
